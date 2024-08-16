@@ -3,7 +3,7 @@
 #include <math.h>
 #include <stdlib.h>
 
-
+#global variables
 int amount, bigs, initial_inv_level, inv_level, next_event_type, num_events,
 num_months, num_values_demand, smalls;
 
