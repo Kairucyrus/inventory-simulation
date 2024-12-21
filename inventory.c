@@ -12,8 +12,8 @@ mean_interdemand, minlag, prob_distrib_demand[26], setup_cost,
 shortage_cost, sim_time, time_last_event, time_next_event[5],
 total_ordering_cost;
 
-//file pointers
-FILE *infile, *outfile;
+
+FILE *infile, *outfile; //file pointers
 void initialize();
 void timing();
 void demand();
